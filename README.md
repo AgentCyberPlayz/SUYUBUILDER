@@ -11,11 +11,13 @@ In order for this to work you need to download some stuff if you don't have them
 ----------------------------------------------------------------------------------------------
 When downloading visual studios make sure to check Desktop Development withC++
 ----------------------------------------------------------------------------------------------
+
 open commandprompt and paste these in one by one 
 1. winget install git.git 
 2. winget install cmake
 3. winget install vulkansdk
 -----------------------------------How-to-use-builder------------------------------------------
+
 inside the SUYUBUILDER type cmd after that opens paste the command "python SUYU.py" and it 
 will start downloading the files after it finishes it will open CMake-gui.exe.  
 
